@@ -86,3 +86,6 @@ for more information on that.
 The kernel is then built as part of the **core** recipe (see the toolkit
 documentation for more information) and can be tested using the **qemu**
 recipe to fire a new CLIP OS virtual machine.
+
+Lu et approuvé
+---------------
